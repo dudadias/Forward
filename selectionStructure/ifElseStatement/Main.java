@@ -1,4 +1,4 @@
-package selectionStructure.ifelse;
+package selectionStructure.ifElseStatement;
 import java.util.Scanner;
 
 public class Main {
