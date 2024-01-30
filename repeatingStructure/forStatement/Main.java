@@ -1,4 +1,4 @@
-package repeatingStructure.for;
+package repeatingStructure.forStatement;
 
 public class Main {
     public static void main(String[] args) {
