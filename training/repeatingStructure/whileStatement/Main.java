@@ -1,4 +1,4 @@
-package repeatingStructure.whileStatement;
+package training.repeatingStructure.whileStatement;
 
 public class Main {
     public static void main(String[] args) {

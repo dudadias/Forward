@@ -1,4 +1,4 @@
-package selectionStructure.switchCaseStatement;
+package training.selectionStructure.switchCaseStatement;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package operations;
+package training.operations;
 
 public class Main {
     public static void main(String[] args) {

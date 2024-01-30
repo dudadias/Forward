@@ -1,4 +1,4 @@
-package repeatingStructure.doWhileStatement;
+package training.repeatingStructure.doWhileStatement;
 
 import java.util.Scanner;
 

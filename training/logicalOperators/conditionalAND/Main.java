@@ -1,4 +1,4 @@
-package logicalOperators.conditionalAND;
+package training.logicalOperators.conditionalAND;
 
 import java.util.Scanner;
 

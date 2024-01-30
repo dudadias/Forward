@@ -1,4 +1,4 @@
-package logicalOperators.conditionalOR;
+package training.logicalOperators.conditionalOR;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package inout;
+package training.inout;
 import java.util.Scanner;
 
 public class Main {
