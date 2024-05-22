@@ -16,6 +16,17 @@ public class Main {
             }
 
             System.out.println();
+
+        }
+        
+        char[] characters = new char[4];
+        characters[0] = 'd';
+        characters[1] = 'u';
+        characters[2] = 'd';
+        characters[3] = 'a';
+
+        for(char c: characters) {
+            System.out.println(c);
         }
     }
 }
